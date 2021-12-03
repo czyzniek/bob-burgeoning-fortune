@@ -1,0 +1,9 @@
+BTC=10
+
+should be ignored
+this also
+
+ETH=WRONG
+
+XRP=2000
+ZTC=0.1

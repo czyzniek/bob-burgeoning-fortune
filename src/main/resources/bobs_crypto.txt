@@ -1,0 +1,5 @@
+BTC=10
+ETH=5
+test tests
+XRP=2000
+garbage
